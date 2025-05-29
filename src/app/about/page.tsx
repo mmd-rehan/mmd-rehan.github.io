@@ -33,11 +33,11 @@ const page = () => {
             <br />
             <br />
             I led teams, mentored devs, architected apps, and even helped reshape EMR systems and insurance platforms across industries.
-            my journey weaves through aviation tech at Amadeus, hybrid mobile apps in Flutter, microservices in Node.js, and even SEO-smart websites aligned with digital marketing goals. I dont just code i crafts, whether it's scalable infrastructure or user-friendly UIs.
+            my journey weaves through aviation tech at Amadeus, hybrid mobile apps in Flutter, microservices in Node.js, and even SEO-smart websites aligned with digital marketing goals. I dont just code i crafts, whether it&apos;s scalable infrastructure or user-friendly UIs.
             <br />
             <br />
             <i>
-              Outside the terminal? I am a gamer, a binge-watcher, and a man who doesn’t mind a tough challenge — especially if it means learning something new.
+              Outside the terminal? I am a gamer, a binge-watcher, and a man who doesn&apos;t mind a tough challenge, especially if it means learning something new.
             </i>
           </p>
         </FramerWrapper>
