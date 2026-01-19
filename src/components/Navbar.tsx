@@ -29,7 +29,6 @@ const Navbar = () => {
     { name: "about", icon: <User2 />,link: "/about" },
     { name: "skills", icon: <Lightbulb />, link: "/skills" },
     { name: "projects", icon: <Layers />, link: "/projects" },
-    { name: "prompts", icon: <SquareTerminal />, link: "/prompts" },
     { name: "Education", icon: <Briefcase />, link: "/education" },
     { name: "more", icon: <PackagePlus />, link: "/more" },
   ];
